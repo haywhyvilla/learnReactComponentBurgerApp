@@ -129,6 +129,17 @@ body {
   margin: 2% auto;
 }
 
+.BuildControls {
+  width: 100%;
+  background-color: #cf8f2e;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  box-shadow: 0 2px 1px #ccc;
+  margin: auto;
+  padding: 10px 0;
+}
+
 @media (min-width: 500px) and (min-height: 400px) {
   .Burger {
     width: 350px;
